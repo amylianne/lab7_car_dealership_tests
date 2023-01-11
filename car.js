@@ -1,7 +1,10 @@
-cosnt Car = function(manufacturer, price, engineType){
+const Car = function(manufacturer, price, engineType){
     this.manufacturer = manufacturer;
     this.price = price;
     this.engineType = engineType;
 }
 
-Car.
+
+
+
+module.exports = Car;
